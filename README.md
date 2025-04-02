@@ -22,7 +22,7 @@ I'm a Computer Systems Engineer with experience in serverless architectures, API
 
 🔹 [**perceptron-single-layer**](https://github.com/josgard94/perceptron-single-layer) – Python implementation of a simple single-layer perceptron for binary classification tasks.  
 🔹 [**simplewatermarking**](https://github.com/josgard94/simplewatermarking) – A MATLAB-based system for embedding and detecting digital watermarks in audio signals.  
-🔹 [**CLAHE**](https://github.com/josgard94/Image-processing-Algorithm-Contrast-Limited-Adaptative-Histogram-Qualization-CLAHE) – Implementation of the CLAHE (Contrast Limited Adaptive Histogram Equalization) image processing algorithm in MATLAB   
+🔹 [**CLAHE**](https://github.com/josgard94/Image-processing-Algorithm-Contrast-Limited-Adaptative-Histogram-Qualization-CLAHE) – Implementation of the CLAHE image processing algorithm in MATLAB   
 🔹 [**Serverless-api-python**](https://github.com/josgard94/serverless-api-python) – REST API example built using AWS services and the Serverless Framework, implemented in Python.  
 🔹 [**Cognitolab**](https://github.com/josgard94/cognitolab) – A CloudFormation template for setting up AWS Cognito resources, written in JavaScript.  
 
