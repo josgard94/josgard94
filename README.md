@@ -13,8 +13,8 @@ I'm a Computer Systems Engineer with experience in serverless architectures, API
 - 🧠 **AWS Certified Developer**
 - 🔧 Hands-on experience with **AWS Lambda, API Gateway, DynamoDB, CodePipeline, IAM**
 - 🐍 Passionate about **Python**, especially for scripting and automation
-- ⚙️ DevOps-oriented: CI/CD pipelines, Bitbucket/GitHub integrations, SonarQube, Fastlane
-- 📱 Mobile development using **React Native** with Bluetooth module integration
+- ⚙️ DevOps-oriented: CI/CD pipelines, Bitbucket/GitHub/AWS codepipeline integrations, SonarQube
+- 📱 Mobile development using **React Native**
 
 ---
 
